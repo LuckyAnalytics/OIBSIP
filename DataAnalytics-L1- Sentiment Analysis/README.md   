@@ -1,0 +1,40 @@
+# Sentiment Analysis using Machine Learning
+
+## Objective
+Build a machine learning model that classifies text into Positive, Negative, and Neutral sentiments.
+
+## Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- NLTK
+- Matplotlib
+- WordCloud
+- Jupyter Notebook
+
+## Features
+- Load dataset
+- Data preprocessing
+- TF-IDF Vectorizer
+- Train/Test Split
+- Naive Bayes Classifier
+- Logistic Regression Classifier
+- Accuracy, Precision, Recall, F1-score
+- Confusion Matrix
+- Sentiment Distribution Chart
+- WordCloud
+- Error Analysis
+- Conclusion
+
+## Models Used
+1. Multinomial Naive Bayes
+2. Logistic Regression
+
+## Results
+Logistic Regression performed better than Naive Bayes for sentiment classification.
+
+## Applications
+- Customer Feedback Analysis
+- Product Review Analysis
+- Social Media Monitoring
+- Brand Reputation Analysis
